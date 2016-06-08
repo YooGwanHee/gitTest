@@ -11,6 +11,6 @@ var result = "${maps.val}";
 alert(result);
 </script>
 <body>
-maps?
+maps??
 </body>
 </html>
